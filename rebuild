@@ -2,8 +2,8 @@
 
 set -ex
 
-./download
-./update.js
+#./download
+#./update.js
 ./generate.js
 ./zone.js
 ./zone-build.js
